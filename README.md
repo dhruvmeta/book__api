@@ -3,3 +3,4 @@ https://github.com/dhruvmeta/book/blob/ca9b64c1728d620b929562a60c8abaac3f9c3997/
 https://github.com/dhruvmeta/book/blob/d1ffcd4c35fd0e13b48a5e419a8f418c7186134d/IMG_2816.jpeg
 https://github.com/dhruvmeta/book/blob/975224ad5cd4762f6b7d5f3ab84a080ce2d1886c/IMG_2817.jpeg
 https://github.com/dhruvmeta/book/blob/891699bc66709379ad2861dbed1e003b6f7ea388/IMG_2818.jpeg
+https://github.com/dhruvmeta/book/blob/e1b0ed3f5208b5ecbb454ff41a52421e450e8ba0/IMG_2819.jpeg
