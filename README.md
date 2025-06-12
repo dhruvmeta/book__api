@@ -4,3 +4,4 @@ https://github.com/dhruvmeta/book/blob/d1ffcd4c35fd0e13b48a5e419a8f418c7186134d/
 https://github.com/dhruvmeta/book/blob/975224ad5cd4762f6b7d5f3ab84a080ce2d1886c/IMG_2817.jpeg
 https://github.com/dhruvmeta/book/blob/891699bc66709379ad2861dbed1e003b6f7ea388/IMG_2818.jpeg
 https://github.com/dhruvmeta/book/blob/e1b0ed3f5208b5ecbb454ff41a52421e450e8ba0/IMG_2819.jpeg
+https://github.com/dhruvmeta/book/blob/ede51ea990c926d93837e1e0736191e6f100f39f/IMG_2819.jpeg
