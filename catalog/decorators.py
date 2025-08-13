@@ -5,7 +5,7 @@ from functools import wraps
 def require_api_key(view_func):
     @wraps(view_func)
     def wrapper(request, *args, **kwargs):
-        # 👇 Add this debug print
+        #  Add this debug print
         print("DEBUG: Incoming headers ->", dict(request.headers))
 
         key = request.headers.get('X-API-Key')  # Correct casing!
